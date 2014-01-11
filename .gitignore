@@ -14,3 +14,4 @@ composer.lock
 ## Kate
 .kateproject
 .kateproject.d/
+*.kdev4
